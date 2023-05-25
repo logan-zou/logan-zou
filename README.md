@@ -27,6 +27,7 @@
 **As a member**:
 
 - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch): A chinese tutorial of PyTorch.
+- [GPT从入门到应用-Prompt使用指南](https://linklearner.com/#/learn/brief/120): A chinese turorial of GPT for the learner who started study the prompt.
 
 
 ## GitHub Stats:
