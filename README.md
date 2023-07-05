@@ -22,7 +22,7 @@
 
 **As a manager**：
 
-- [Prompt Engineering for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers): A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
+- [LLM tutorial for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers): A chinese tutorial of ChatGPT for Developers, contains three classes of AndrewNg.
 
 **As a member**:
 
