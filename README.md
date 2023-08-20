@@ -27,9 +27,10 @@
 **As a member**:
 
 - [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch): A chinese tutorial of PyTorch.
+- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat): A chat robot based on ChatGLM2 likes Zhenhuan.
 - [GPT从入门到应用-Prompt使用指南](https://linklearner.com/#/learn/brief/120): A chinese turorial of GPT for the learner who started study the prompt.
 - [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual): A Chinese exercise solution project for the "Dive into Deep Learning".
-- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat): A chat robot based on ChatGLM2 likes Zhenhuan.
+
 
 ## GitHub Stats 📫
 
