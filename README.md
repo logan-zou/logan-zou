@@ -11,6 +11,7 @@
 - 🔭 I'm Zou Yuheng, a master's student from the University of International Business and Economics, School of Information Technology and Management, major in Data Science and Big Data Technology.
 - 📫 A constant learner and explorer, enthusiastic about participating in open-source projects related to NLP and LLM.
 - 💬 Email: [loganzou0421@163.com](loganzou0421@163.com)
+- 📄 My homepage: [Logan Zou](https://logan-zou.github.io/)
  
 ## Interest 👨🏽‍💻
 
