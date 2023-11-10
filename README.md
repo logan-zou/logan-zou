@@ -47,7 +47,7 @@
 
 - [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
 - [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
-- [Kaggle NLP 算法赛-基于灾难推文的自然语言处理赛](https://www.kaggle.com/competitions/nlp-getting-started): NLP competition of Kaggle, **5%**.
+- [Kaggle 算法赛-基于灾难推文的自然语言处理赛](https://www.kaggle.com/competitions/nlp-getting-started): NLP competition of Kaggle, **5%**.
 - [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**, still in competition.
 - [全国首届创新创意应用大赛](https://mp.weixin.qq.com/s/3fc4MCUegNTQtxelDq_Iww): LLM competition of Shanghai Key Laboratory of Data Science, **Top6**.
 - 第十二届电子商务三创赛：A nationwide entrepreneurship competition, the Best Innovation Award in Beijing.
