@@ -25,6 +25,7 @@
 
 - [LLM tutorial for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers)-**Star 7K**: A chinese tutorial of ChatGPT for Developers, contains six classes of AndrewNg.
 - [LLM Universe](https://github.com/datawhalechina/llm-universe): A Chinese tutorial for developing LLM application for new learner in AI.
+- [Self LLM](https://github.com/KMnO4-zx/self_llm): A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
 
 **As a member**:
 
