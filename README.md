@@ -24,15 +24,16 @@
 
 **As a manager**：
 
-- [LLM tutorial for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers)-**Star 7.2K**: A chinese tutorial of ChatGPT for Developers, contains six classes of AndrewNg.
-- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 323**: A Chinese tutorial for developing LLM application for new learner in AI.
-- [Self LLM](https://github.com/KMnO4-zx/self_llm): A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
+- [LLM tutorial for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers)-**Star 7.6K**: A chinese tutorial of ChatGPT for Developers, contains six classes of AndrewNg.
+- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 609**: A Chinese tutorial for developing LLM application for new learner in AI.
+- [Self LLM](https://github.com/datawhalechina/self-llm): A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
 
 **As a member**:
 
-- [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)-**Star 1.4K**: A chinese tutorial of PyTorch.
-- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat)-**Star 185**: A chat robot based on ChatGLM2 likes Zhenhuan.
-- [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual)-**Star 130**: A Chinese exercise solution project for the "Dive into Deep Learning".
+- [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)-**Star 1.7K**: A chinese tutorial of PyTorch.
+- [InternLM-tutorial](https://github.com/InternLM/tutorial)-**Star 145**: A full-chain course on LLM from the Shanghai Artificial Intelligence Laboratory.
+- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat)-**Star 201**: A chat robot based on ChatGLM2 likes Zhenhuan.
+- [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual)-**Star 174**: A Chinese exercise solution project for the "Dive into Deep Learning".
 - [奇想星球-AIGC共创平台](https://1aigc.cn): An AIGC platform for develpoers to support everyone want to bulid an AIGC application.
 - [GPT从入门到应用-Prompt使用指南](https://linklearner.com/#/learn/brief/120): A chinese turorial of GPT for the learner who started study the prompt.
 - [Datawhale NLP 夏令营-Baseline](https://datawhaler.feishu.cn/docx/R5fcd2hWIoVAhBxytu1cotSbnne): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.
