@@ -23,7 +23,7 @@
 
 **As a manager**：
 
-- [LLM tutorial for Developers](https://github.com/datawhalechina/prompt-engineering-for-developers)-**Star 8.2K**: A chinese tutorial of ChatGPT for Developers, contains six classes of AndrewNg.
+- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 8.2K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
 - [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 804**: A Chinese tutorial for developing LLM application for new learner in AI.
 - [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 722**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
 
