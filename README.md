@@ -23,17 +23,17 @@
 
 **As a manager**：
 
-- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 8.2K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
-- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 804**: A Chinese tutorial for developing LLM application for new learner in AI.
-- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 722**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
+- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 9.1K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
+- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 2K**: A Chinese tutorial for developing LLM application for new learner in AI.
+- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 3.2K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
 
 **As a member**:
 
-- [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)-**Star 1.8K**: A chinese tutorial of PyTorch.
-- [InternLM-tutorial](https://github.com/InternLM/tutorial)-**Star 352**: A full-chain course on LLM from the Shanghai Artificial Intelligence Laboratory.
-- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat)-**Star 246**: A chat robot based on ChatGLM2 likes Zhenhuan.
-- [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual)-**Star 207**: A Chinese exercise solution project for the "Dive into Deep Learning".
-- [天机](https://github.com/SocialAI-tianji/Tianji): An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
+- [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)-**Star 1.9K**: A chinese tutorial of PyTorch.
+- [InternLM-tutorial](https://github.com/InternLM/tutorial)-**Star 634**: A full-chain course on LLM from the Shanghai Artificial Intelligence Laboratory.
+- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat)-**Star 292**: A chat robot based on ChatGLM2 likes Zhenhuan.
+- [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual)-**Star 252**: A Chinese exercise solution project for the "Dive into Deep Learning".
+- [天机](https://github.com/SocialAI-tianji/Tianji)-**Star 125**: An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
 - [奇想星球-AIGC共创平台](https://1aigc.cn): An AIGC platform for develpoers to support everyone want to bulid an AIGC application.
 - [GPT从入门到应用-Prompt使用指南](https://linklearner.com/#/learn/brief/120): A chinese turorial of GPT for the learner who started study the prompt.
 - [Datawhale NLP 夏令营-Baseline](https://datawhaler.feishu.cn/docx/R5fcd2hWIoVAhBxytu1cotSbnne): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.
@@ -51,7 +51,8 @@
 - [科大讯飞算法赛-基于论文摘要的文本分类与关键词抽取挑战赛](http://challenge.xfyun.cn/topic/info?type=abstract-of-the-paper): NLP competition of iFLYTEK, **Top 3**.
 - [科大讯飞算法赛-人岗匹配挑战赛](http://challenge.xfyun.cn/topic/info?type=person-post-matching-2023): NLP competition of iFLYTEK, **Top3**.
 - [Kaggle 算法赛-基于灾难推文的自然语言处理赛](https://www.kaggle.com/competitions/nlp-getting-started): NLP competition of Kaggle, **5%**.
-- [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**, still in competition.
+- [上海 AI Lab-浦源大模型系列挑战赛](https://www.shlab.org.cn/event/detail/47): LLM competition of Shanghai AI Lab,**Top 12**.
+- [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**.
 - [全国首届创新创意应用大赛](https://mp.weixin.qq.com/s/3fc4MCUegNTQtxelDq_Iww): LLM competition of Shanghai Key Laboratory of Data Science, **Top6**.
 - 第十二届电子商务三创赛：A nationwide entrepreneurship competition, the Best Innovation Award in Beijing.
 
