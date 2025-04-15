@@ -21,29 +21,17 @@
 
 ## Open Source Experience 👯
 
-**As a manager**：
-
-- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 11.4K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
-- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 7.9K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
-- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 4.4K**: A Chinese tutorial for developing LLM application for new learner in AI.
-- [Tiny Universe](https://github.com/datawhalechina/tiny-universe)-**Star 1K**: A Chinese tutorial for building a LLM system without any framework, to help learners handle the underlying details of LLM.
-
-**As a member**:
-
-- [thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)-**Star 2.4K**: A chinese tutorial of PyTorch.
-- [InternLM-tutorial](https://github.com/InternLM/tutorial)-**Star 1.3K**: A full-chain course on LLM from the Shanghai Artificial Intelligence Laboratory.
-- [Chat甄嬛](https://github.com/KMnO4-zx/huanhuan-chat)-**Star 477**: A chat robot based on ChatGLM2 likes Zhenhuan.
-- [动手学深度学习习题解答](https://github.com/datawhalechina/d2l-ai-solutions-manual)-**Star 333**: A Chinese exercise solution project for the "Dive into Deep Learning".
-- [天机](https://github.com/SocialAI-tianji/Tianji)-**Star 346**: An AI system which can be utilized for tasks involving worldly wisdom to enhance your emotional intelligence.
-- [GPT从入门到应用-Prompt使用指南](https://linklearner.com/#/learn/brief/120): A chinese turorial of GPT for the learner who started study the prompt.
-- [Datawhale NLP 夏令营-Baseline](https://datawhaler.feishu.cn/docx/R5fcd2hWIoVAhBxytu1cotSbnne): A baseline for the iFLYTEK algorithm competition, a core class in DataWhale AI summer camp.
+- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 18.7K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
+- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 14.7K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
+- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 7.7K**: A Chinese tutorial for developing LLM application for new learner in AI.
+- [Tiny Universe](https://github.com/datawhalechina/tiny-universe)-**Star 2.7K**: A Chinese tutorial for building a LLM system without any framework, to help learners handle the underlying details of LLM.
 
 ## Other Experience On NLP 🔬 
 
 **Research**
 
 - 《A Neural-Ensemble Learning Method for Migration Prediction Based on Culinary Taste Data in China》: An English paper for migration prediction based on deep learning, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
-- 《基于跨语言模型的中美数字经济政策对比研究》：A Chinses paper for comparing digital economic policies using cross-language models, accepted by SMP2023, submitted for **Chinese core** journel 《ISTIC》.
+- 《基于跨语言模型的中美数字经济政策对比研究》：A Chinses paper for comparing digital economic policies using cross-language models, accepted by SMP2023, submitted for **Chinese core** journel 《Complex Systems and Complexity Science》.
 - 《Why Guests Write Negative Comments for Budget Hotels：Research Based on Aspect Extraction》：An English paper about hotels' comments, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
 
 **Competition**
@@ -53,7 +41,6 @@
 - [上海 AI Lab-浦源大模型系列挑战赛](https://www.shlab.org.cn/event/detail/47): LLM competition of Shanghai AI Lab,**Top 12**.
 - [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 50**.
 - [全国首届创新创意应用大赛](https://mp.weixin.qq.com/s/3fc4MCUegNTQtxelDq_Iww): LLM competition of Shanghai Key Laboratory of Data Science, **Top6**.
-- 第十二届电子商务三创赛：A nationwide entrepreneurship competition, the Best Innovation Award in Beijing.
 
 ## GitHub Stats 📫
 
