@@ -32,7 +32,7 @@
 **Research**
 
 - 《A Neural-Ensemble Learning Method for Migration Prediction Based on Culinary Taste Data in China》: An English paper for migration prediction based on deep learning, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
-- 《基于跨语言模型的中美数字经济政策对比研究》：A Chinses paper for comparing digital economic policies using cross-language models, accepted by SMP2023, submitted for **Chinese core** journel 《Complex Systems and Complexity Science》.
+- 《基于跨语言模型的中美数字经济政策对比研究》：A Chinses paper for comparing digital economic policies using cross-language models, accepted by SMP2023, accepted by **Chinese core** journel 《Complex Systems and Complexity Science》.
 - 《Why Guests Write Negative Comments for Budget Hotels：Research Based on Aspect Extraction》：An English paper about hotels' comments, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
 
 **Competition**
