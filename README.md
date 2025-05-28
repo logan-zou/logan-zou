@@ -21,6 +21,7 @@
 
 ## Open Source Experience 👯
 
+- [Happy-LLM](https://github.com/datawhalechina/happy-llm) ：A chinese tutorial for LLM, include theory of LLM and practice, you can handle LLM well only with this repository.
 - [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 18.7K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
 - [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 14.7K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
 - [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 7.7K**: A Chinese tutorial for developing LLM application for new learner in AI.
