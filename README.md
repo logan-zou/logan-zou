@@ -8,7 +8,7 @@
 
 ## About ME 👋
 
-- 🔭 I'm Zou Yuheng, a AI engineer from rednote, mainly responsible for the development and optimization of LLM applications.
+- 🔭 I'm Zou Yuheng, an AI engineer from rednote, mainly responsible for the development and optimization of LLM applications.
 - 📫 A constant learner and explorer, enthusiastic about participating in open-source projects related to NLP and LLM.
 - 💬 Email: [loganzou0421@163.com](loganzou0421@163.com)
 - 📄 My homepage: [Logan Zou](https://logan-zou.github.io/)
