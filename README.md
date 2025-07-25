@@ -17,7 +17,7 @@
 
 - LLM : Post Train, Finetune, RL, RAG, Agents and everything about LLM 
 - NLP Theory: NLG, NLU and everything about NLP
-- LLM Application : The best approach to building LLM applications
+- LLM Application : The best approach to build LLM applications
 
 ## Open Source Experience 👯
 
