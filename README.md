@@ -21,17 +21,17 @@
 
 ## Open Source Experience 👯
 
-- [Happy-LLM](https://github.com/datawhalechina/happy-llm)-**Star 13K** ：A chinese tutorial for LLM, include theory of LLM and practice, you can handle LLM well only with this repository.
-- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 21.9K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
-- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 20.5K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
-- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 9.3K**: A Chinese tutorial for developing LLM application for new learner in AI.
-- [Tiny Universe](https://github.com/datawhalechina/tiny-universe)-**Star 3.4K**: A Chinese tutorial for building a LLM system without any framework, to help learners handle the underlying details of LLM.
+- [Happy-LLM](https://github.com/datawhalechina/happy-llm)-**Star 20.9K** ：A chinese tutorial for LLM, include theory of LLM and practice, you can handle LLM well only with this repository.
+- [Self LLM](https://github.com/datawhalechina/self-llm)-**Star 25.7K**: A Chinese tutorial for everything of open-source LLM, such as deployment, application, and fine-tuning processes.
+- [LLM Cookbook](https://github.com/datawhalechina/llm-cookbook)-**Star 22K**: A chinese tutorial of ChatGPT for Developers, contains ten classes of AndrewNg.
+- [LLM Universe](https://github.com/datawhalechina/llm-universe)-**Star 10.6K**: A Chinese tutorial for developing LLM application for new learner in AI.
+- [Tiny Universe](https://github.com/datawhalechina/tiny-universe)-**Star 4K**: A Chinese tutorial for building a LLM system without any framework, to help learners handle the underlying details of LLM.
 
 ## Other Experience On NLP 🔬 
 
 **Research**
 
-- 《SPEAR: Subset-sampled Performance Evaluation via Automated Ground Truth Generation for RAG》：An English paper for RAG evaluation method, submitted for conference.
+- 《SEARA: An Automated Approach for Obtaining Optimal Retrievers》：An English paper for RAG evaluation method, accepted by **EMNLP 2025**.
 - 《A Neural-Ensemble Learning Method for Migration Prediction Based on Culinary Taste Data in China》: An English paper for migration prediction based on deep learning, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
 - 《基于跨语言模型的中美数字经济政策对比研究》：A Chinses paper for comparing digital economic policies using cross-language models, accepted by SMP2023, accepted by **Chinese core** journel 《Complex Systems and Complexity Science》.
 - 《Why Guests Write Negative Comments for Budget Hotels：Research Based on Aspect Extraction》：An English paper about hotels' comments, accepted by **SCI** journel 《Journal of Nonlinear and Convex Analysis》.
